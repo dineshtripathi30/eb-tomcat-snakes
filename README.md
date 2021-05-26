@@ -1,5 +1,4 @@
-# MCDS Offering - Application Modernization
-## eb-tomcat-snakes
+# eb-tomcat-snakes
 Tomcat application that shows the use of RDS in a Java EE web application in AWS Elastic Beanstalk. The project shows the use of Servlets, JSPs, Simple Tag Support, Tag Files, JDBC, SQL, Log4J, Bootstrap, Jackson, and Elastic Beanstalk configuration files.
 
 ## INSTRUCTIONS
