@@ -8,10 +8,7 @@
     
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/snakes.css" rel="stylesheet" />
-    <title><h1>MCDS Offering - App2Containerize Demo</h1></title>
-    <br/>
-    <br/>
-    <title>Does it have snakes?</title>
+    <title>MCDS App Moderniation</title>
   </head>
 
   <script>
@@ -30,7 +27,8 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">Does it have snakes?</h1>
+       <h1 class="cover-heading">MCDS Application Modernization Demo App</h1>
+      <h1 class="lead">Does it have snakes?</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
