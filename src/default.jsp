@@ -8,7 +8,9 @@
     
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/snakes.css" rel="stylesheet" />
-
+    <title><h1>MCDS Offering - App2Containerize Demo</h1></title>
+    <br/>
+    <br/>
     <title>Does it have snakes?</title>
   </head>
 
