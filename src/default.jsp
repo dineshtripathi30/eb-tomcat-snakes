@@ -28,7 +28,7 @@
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
       <h1 class="cover-heading">MCDS App Modernization - Demo App</h1>
-      <hr size="8" width="90%" color="green">  
+      <hr size="8" width="90%" color="blue">  
       <h1 class="lead">Does it have snakes?</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
